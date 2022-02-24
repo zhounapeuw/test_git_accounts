@@ -6,3 +6,5 @@ this text may conflict with PR
 
 added text before PR
 
+2nd PR conflicting text
+
