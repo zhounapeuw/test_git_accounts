@@ -8,3 +8,5 @@ added text before PR
 
 2nd PR conflicting text
 
+addition_var = 1+3
+
