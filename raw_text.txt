@@ -1,7 +1,0 @@
-some text
-
-logged out
-
-random user/email
-
-upstream oirign
